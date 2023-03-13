@@ -10,11 +10,11 @@ The purpose of this project is to analyze Nashville Housing Sales
 
 ## **Technologies**
 
--SQL
--Microsoft SQL
--Tableau
--Excel
--Version Control
+-SQL  
+-Microsoft SQL  
+-Tableau  
+-Excel  
+-Version Control  
 
 ## **Project Discription**
 
