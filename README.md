@@ -24,5 +24,5 @@ This project is a data analytical project about Nashville housing sales data. In
 ## **Installation**
 
 -`git clone https://github.com/JSchwerdt2014/Nashville-Housing-Data.git`  
--Raw data is here https://github.com/JSchwerdt2014/Nashville_Housing_Project/blob/master/Housing_Data_Original.csv
+-Raw data is here https://github.com/JSchwerdt2014/Nashville_Housing_Project/blob/master/Housing_Data_Original.csv  
 -Cleaned data is here https://github.com/JSchwerdt2014/Nashville_Housing_Project/blob/master/Housing_Data_Cleaned_v02.xlsx
