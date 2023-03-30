@@ -1,12 +1,17 @@
 # **Nashville_Housing_Data_Project**
 
-The purpose of this project is to analyze Nashville Housing Sales
+In this project we will be answering a few key business problems for a real estate investor trying maximize investments.
+
+1. In What area should our real estate investor(s) focus? 
+2. What types of properties should be invested in? 
+3. What times of the year would be optimal to invest?
 
 ## **Methods Used**
 
 -Data Analysis  
 -Data Visualization  
--Predictive Modeling  
+-Predictive Modeling 
+-Data Cleaning
 
 ## **Technologies**
 
@@ -18,7 +23,7 @@ The purpose of this project is to analyze Nashville Housing Sales
 
 ## **Project Discription**
 
-This project is a data analytical project about Nashville housing sales data. In this project, we make use of a kaggle dataset with Microsoft SQL to clean and sort our data set. We then visualize our dataset and make some statistical predictions with Tableau dashboards. All visualization are included in the Visualizations folder.
+This project is a data analytical project about Nashville housing sales data. In this project, we make use of a kaggle dataset with Microsoft SQL to clean and sort our data set for problem solving. We then visualize our dataset and make some statistical predictions with Tableau dashboards to answer our business problems for our investor. All visualization are included in the Visualizations folder.
 
 
 ## **Installation**
