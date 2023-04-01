@@ -10,7 +10,7 @@ In this project we will be answering a few key business problems for a real esta
 
 -Data Analysis  
 -Data Visualization  
--Predictive Modeling 
+-Predictive Modeling  
 -Data Cleaning
 
 ## **Technologies**
