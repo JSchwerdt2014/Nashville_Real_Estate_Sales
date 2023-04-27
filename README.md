@@ -10,41 +10,41 @@ In this project we will be answering a few key business problems for a real esta
 
 Addressing null values  
 
-![null values](./sql_snippets/null_values.png)
+![null values](sql_snippets/null_values.png)
 
 Unpacking address into multiple columns  
 
-![Unpacking Address](./sql_snippets/unpacking.png)
+![Unpacking Address](sql_snippets/unpacking.png)
 
 Unpacking owner address into multiple columns  
 
-![Unpacking Owner Address](./sql_snippets/unpacking_2.png)
+![Unpacking Owner Address](sql_snippets/unpacking_2.png)
 
 Removing Duplicate Rows  
 
-![Duplicate Rows](./sql_snippets/Duplicates.png)
+![Duplicate Rows](sql_snippets/Duplicates.png)
 
 Checking columns for standardized values
 
-![Values](./sql_snippets/Values.png)
+![Values](sql_snippets/Values.png)
 
 Removing unused columns
 
-![Remove Columns](./sql_snippets/Remove_columns.png)
+![Remove Columns](sql_snippets/Remove_columns.png)
 
 ## **Tableau Dashboards**
 
 #### **Sales per City Dashboard**  
 
-![Dashboard](./visualizations/Housing_Data_Visualization_01.png)
+![Dashboard](visualizations/Housing_Data_Visualization_01.png)
 
 #### **Sales per Property Type Dashboard**  
 
-![Dashboard](./visualizations/Housing_Data_Visualization_02.png)
+![Dashboard](visualizations/Housing_Data_Visualization_02.png)
 
 #### **Optimal Sales Months Dashboard**  
 
-![Dashboard](./visualizations/Housing_Data_Visualization_03.png)
+![Dashboard](visualizations/Housing_Data_Visualization_03.png)
 
 
 
