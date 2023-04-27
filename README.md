@@ -44,7 +44,7 @@ Removing unused columns
 
 #### **Optimal Sales Months Dashboard**  
 
-![Dashboard](visualizations/Housing_Data_Visualization_03.png)
+![Dashboard](Visualizations/Housing_Data_Visualization_03.png)
 
 
 
