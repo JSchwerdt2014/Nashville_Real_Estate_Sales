@@ -10,37 +10,37 @@ In this project we will be answering a few key business problems for a real esta
 
 Addressing null values  
 
-![null values](sql_snippets/null_values.png)
+![null values](SQL_Snippets/Null_Values.png)
 
 Unpacking address into multiple columns  
 
-![Unpacking Address](sql_snippets/unpacking.png)
+![Unpacking Address](SQL_Snippets/Unpacking.png)
 
 Unpacking owner address into multiple columns  
 
-![Unpacking Owner Address](sql_snippets/unpacking_2.png)
+![Unpacking Owner Address](SQL_Snippets/Unpacking_2.png)
 
 Removing Duplicate Rows  
 
-![Duplicate Rows](sql_snippets/Duplicates.png)
+![Duplicate Rows](SQL_Snippets/Duplicates.png)
 
 Checking columns for standardized values
 
-![Values](sql_snippets/Values.png)
+![Values](SQL_Snippets/Values.png)
 
 Removing unused columns
 
-![Remove Columns](sql_snippets/Remove_columns.png)
+![Remove Columns](SQL_Snippets/Remove_Columns.png)
 
 ## **Tableau Dashboards**
 
 #### **Sales per City Dashboard**  
 
-![Dashboard](visualizations/Housing_Data_Visualization_01.png)
+![Dashboard](Visualizations/Housing_Data_Visualization_01.png)
 
 #### **Sales per Property Type Dashboard**  
 
-![Dashboard](visualizations/Housing_Data_Visualization_02.png)
+![Dashboard](Visualizations/Housing_Data_Visualization_02.png)
 
 #### **Optimal Sales Months Dashboard**  
 
